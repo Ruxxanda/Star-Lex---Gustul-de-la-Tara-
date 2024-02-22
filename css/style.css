@@ -218,7 +218,7 @@ ul li {
 .fundal-acasa {
     min-height: 100vh;
     width: 100%;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(/imagini/cascaval\ 2.jpg);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(imagini/cascaval\ 2.jpg);
     background-position: center;
     background-size: cover;
     height: 600px;
@@ -418,7 +418,7 @@ footer {
 .fundal-prezentare {
     min-height: 10vh;
     width: 100%;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(/imagini/cascaval\ 30.png);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(../imagini/cascaval\ 30.png);
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -712,7 +712,7 @@ footer {
 .fundal-vanzari {
     min-height: 10vh;
     width: 100%;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(/imagini/cascaval\ 31.png);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(../imagini/cascaval\ 31.png);
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -863,7 +863,7 @@ footer {
 .fundal-galerie {
     min-height: 10vh;
     width: 100%;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(/imagini/cascaval\ 32.png);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(../imagini/cascaval\ 32.png);
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -998,7 +998,7 @@ footer {
 .fundal-contacte {
     min-height: 10vh;
     width: 100%;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(/imagini/cascaval\ 33.png);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(../imagini/cascaval\ 33.png);
     background-position: center;
     background-size: cover;
     height: 300px;
